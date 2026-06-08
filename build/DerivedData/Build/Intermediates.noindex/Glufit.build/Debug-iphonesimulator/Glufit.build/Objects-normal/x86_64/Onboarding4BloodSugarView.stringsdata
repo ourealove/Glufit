@@ -1,0 +1,72 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding4BloodSugarView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "최근 혈당수치를 알고 있나요?",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "최근 혈당 수치",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "141",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "mg/dL",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "모르셔도 괜찮아요! \n나중에 ",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "마이페이지에서 수정",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "할 수 있어요.",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "다음",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 101
+        }
+      }
+    ]
+  },
+  "version": 1
+}

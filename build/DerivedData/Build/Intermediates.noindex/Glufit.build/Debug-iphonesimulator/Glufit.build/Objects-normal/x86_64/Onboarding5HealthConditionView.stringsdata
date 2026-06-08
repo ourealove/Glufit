@@ -1,0 +1,32 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding5HealthConditionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "건강 특이사항이 있다면 알려주세요",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "건강 특이사항",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "다음",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 86
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>1CB1B9B2-0BB1-4D52-B0DD-94EEE242CAED</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1CB1B9B2-0BB1-4D52-B0DD-94EEE242CAED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>8</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Glufit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Glufit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Glufit with scheme Glufit and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>802244933.48218298</real>
+			<key>timeStoppedRecording</key>
+			<real>802245016.87929106</real>
+			<key>title</key>
+			<string>Building project Glufit with scheme Glufit and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1CB1B9B2-0BB1-4D52-B0DD-94EEE242CAED</string>
+		</dict>
+		<key>B4AE837F-EFF7-4F0B-BB19-961A90CB39AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B4AE837F-EFF7-4F0B-BB19-961A90CB39AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>8</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Glufit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Glufit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Glufit with scheme Glufit and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>802244511.17292297</real>
+			<key>timeStoppedRecording</key>
+			<real>802244523.16391206</real>
+			<key>title</key>
+			<string>Building project Glufit with scheme Glufit and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B4AE837F-EFF7-4F0B-BB19-961A90CB39AC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

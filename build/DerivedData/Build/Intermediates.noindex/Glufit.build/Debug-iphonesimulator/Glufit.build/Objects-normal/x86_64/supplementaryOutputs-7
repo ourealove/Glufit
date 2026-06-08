@@ -1,0 +1,23 @@
+{
+  "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding5HealthConditionView.swift" : {
+    "const-values" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding5HealthConditionView.swiftconstvalues",
+    "dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding5HealthConditionView.d",
+    "diagnostics" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding5HealthConditionView.dia",
+    "object" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding5HealthConditionView.o",
+    "swift-dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding5HealthConditionView.swiftdeps"
+  },
+  "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding6FoodRestrictionView.swift" : {
+    "const-values" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding6FoodRestrictionView.swiftconstvalues",
+    "dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding6FoodRestrictionView.d",
+    "diagnostics" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding6FoodRestrictionView.dia",
+    "object" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding6FoodRestrictionView.o",
+    "swift-dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding6FoodRestrictionView.swiftdeps"
+  },
+  "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/OnboardingHelpers.swift" : {
+    "const-values" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/OnboardingHelpers.swiftconstvalues",
+    "dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/OnboardingHelpers.d",
+    "diagnostics" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/OnboardingHelpers.dia",
+    "object" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/OnboardingHelpers.o",
+    "swift-dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/OnboardingHelpers.swiftdeps"
+  }
+}

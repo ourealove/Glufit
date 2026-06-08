@@ -1,0 +1,72 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Home/FoodCarousel.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "추천 대체 음식 ",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "근처매장보기",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 283
+        }
+      },
+      {
+        "comment": "",
+        "key": "레시피보기",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 292
+        }
+      },
+      {
+        "comment": "",
+        "key": "/",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 265
+        }
+      },
+      {
+        "comment": "",
+        "key": "kcal",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 260
+        }
+      },
+      {
+        "comment": "",
+        "key": "mg/dL",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 273
+        }
+      },
+      {
+        "comment": "",
+        "key": "고혈당 음식으로 인해 혈당 상승 위험이 높아요",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 449
+        }
+      },
+      {
+        "comment": "",
+        "key": "14",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 439
+        }
+      }
+    ]
+  },
+  "version": 1
+}

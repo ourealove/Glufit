@@ -1,0 +1,72 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Home/MealPredictionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "먹을 음식을 검색해보세요",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "최근 검색어",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 128
+        }
+      },
+      {
+        "comment": "",
+        "key": "인기 검색어",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 170
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 189
+        }
+      },
+      {
+        "comment": "",
+        "key": "/",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 226
+        }
+      },
+      {
+        "comment": "",
+        "key": "kcal",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 221
+        }
+      },
+      {
+        "comment": "",
+        "key": "mg/dL",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "자세히 보기",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 270
+        }
+      }
+    ]
+  },
+  "version": 1
+}

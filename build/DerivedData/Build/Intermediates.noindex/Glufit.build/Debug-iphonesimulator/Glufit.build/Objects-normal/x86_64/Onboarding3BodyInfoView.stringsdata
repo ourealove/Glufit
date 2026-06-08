@@ -1,0 +1,72 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding3BodyInfoView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "당신의 신체정보를 알려주세요",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "키",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "160",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "cm",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "몸무게",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "62",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "kg",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "다음",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 93
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,21 +1,26 @@
-//
-//  ContentView.swift
-//  Glufit
-//
-//  Created by ourealove on 5/20/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
+    @State private var splashDone = false
+    @State private var onboardingDone = false
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        if !splashDone {
+            SplashView()
+                .onAppear {
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {
+                        withAnimation(.easeOut(duration: 0.4)) {
+                            splashDone = true
+                        }
+                    }
+                }
+        } else if onboardingDone {
+            MainTabView()
+        } else {
+            NavigationStack {
+                Onboarding1LoginView(onboardingDone: $onboardingDone)
+            }
         }
-        .padding()
     }
 }
 

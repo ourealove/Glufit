@@ -1,0 +1,56 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Home/FoodCarousel.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "추천 대체 음식 ",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 267
+        }
+      },
+      {
+        "comment": "",
+        "key": "근처매장보기",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 375
+        }
+      },
+      {
+        "comment": "",
+        "key": "레시피보기",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 384
+        }
+      },
+      {
+        "comment": "",
+        "key": "/",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 357
+        }
+      },
+      {
+        "comment": "",
+        "key": "kcal",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 352
+        }
+      },
+      {
+        "comment": "",
+        "key": "mg/dL",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 365
+        }
+      }
+    ]
+  },
+  "version": 1
+}

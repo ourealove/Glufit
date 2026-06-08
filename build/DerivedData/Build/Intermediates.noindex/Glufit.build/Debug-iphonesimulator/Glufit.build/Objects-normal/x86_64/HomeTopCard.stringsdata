@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Home/HomeTopCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "점",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 105
+        }
+      }
+    ]
+  },
+  "version": 1
+}

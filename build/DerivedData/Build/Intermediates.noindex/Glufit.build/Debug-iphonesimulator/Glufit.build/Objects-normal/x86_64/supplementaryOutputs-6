@@ -1,0 +1,23 @@
+{
+  "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding2BasicInfoView.swift" : {
+    "const-values" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding2BasicInfoView.swiftconstvalues",
+    "dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding2BasicInfoView.d",
+    "diagnostics" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding2BasicInfoView.dia",
+    "object" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding2BasicInfoView.o",
+    "swift-dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding2BasicInfoView.swiftdeps"
+  },
+  "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding3BodyInfoView.swift" : {
+    "const-values" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding3BodyInfoView.swiftconstvalues",
+    "dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding3BodyInfoView.d",
+    "diagnostics" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding3BodyInfoView.dia",
+    "object" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding3BodyInfoView.o",
+    "swift-dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding3BodyInfoView.swiftdeps"
+  },
+  "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding4BloodSugarView.swift" : {
+    "const-values" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding4BloodSugarView.swiftconstvalues",
+    "dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding4BloodSugarView.d",
+    "diagnostics" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding4BloodSugarView.dia",
+    "object" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding4BloodSugarView.o",
+    "swift-dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/Onboarding4BloodSugarView.swiftdeps"
+  }
+}

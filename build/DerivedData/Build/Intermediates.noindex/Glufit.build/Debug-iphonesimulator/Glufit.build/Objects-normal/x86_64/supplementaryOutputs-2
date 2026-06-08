@@ -1,0 +1,23 @@
+{
+  "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/GluLog/GluLogView.swift" : {
+    "const-values" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/GluLogView.swiftconstvalues",
+    "dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/GluLogView.d",
+    "diagnostics" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/GluLogView.dia",
+    "object" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/GluLogView.o",
+    "swift-dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/GluLogView.swiftdeps"
+  },
+  "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Home/HomeTopCard.swift" : {
+    "const-values" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/HomeTopCard.swiftconstvalues",
+    "dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/HomeTopCard.d",
+    "diagnostics" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/HomeTopCard.dia",
+    "object" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/HomeTopCard.o",
+    "swift-dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/HomeTopCard.swiftdeps"
+  },
+  "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Home/HomeView.swift" : {
+    "const-values" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/HomeView.d",
+    "diagnostics" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/HomeView.dia",
+    "object" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/HomeView.o",
+    "swift-dependencies" : "/Users/ourealove/Desktop/everything/01_projects/Glufit/build/DerivedData/Build/Intermediates.noindex/Glufit.build/Debug-iphonesimulator/Glufit.build/Objects-normal/x86_64/HomeView.swiftdeps"
+  }
+}

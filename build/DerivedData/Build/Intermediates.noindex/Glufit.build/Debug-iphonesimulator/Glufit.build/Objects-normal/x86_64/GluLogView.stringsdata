@@ -1,0 +1,32 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/GluLog/GluLogView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "하루 추천 섭취량",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Glulog",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "고칼로리 식사가 자주 기록되었어요. \n다음 주는 안정 구간을 함께 늘려봐요!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 106
+        }
+      }
+    ]
+  },
+  "version": 1
+}

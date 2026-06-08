@@ -1,0 +1,64 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/FitTalk/FitTalkView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "FitTalk",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "친구들이 올린 식단",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "예진",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 189
+        }
+      },
+      {
+        "comment": "",
+        "key": "핏챌린지",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 315
+        }
+      },
+      {
+        "comment": "",
+        "key": "전체보기",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 321
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@명",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 453
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@일",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 461
+        }
+      }
+    ]
+  },
+  "version": 1
+}

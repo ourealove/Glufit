@@ -1,0 +1,48 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding6FoodRestrictionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "먹을 수 없는 음식을 알려주세요",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "알레르기 또는 못먹는 음식",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "선택한 음식은 ",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "추천 음식과 레시피 추천에 반영돼요.",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "시작하기",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 103
+        }
+      }
+    ]
+  },
+  "version": 1
+}

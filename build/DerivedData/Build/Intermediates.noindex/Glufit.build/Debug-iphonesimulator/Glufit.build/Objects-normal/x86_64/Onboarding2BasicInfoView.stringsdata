@@ -1,0 +1,48 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding2BasicInfoView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "당신의 기본정보를 알려주세요",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "성별",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "생년월일",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "2000. 01. 01",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "다음",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 88
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,72 @@
+{
+  "source": "/Users/ourealove/Desktop/everything/01_projects/Glufit/Glufit/Views/Onboarding/Onboarding1LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "더 건강한 한 끼의 시작",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "아이디 입력",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "비밀번호 입력",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "로그인",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "아이디 찾기",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "비밀번호 찾기",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 118
+        }
+      },
+      {
+        "comment": "",
+        "key": "회원가입",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 132
+        }
+      },
+      {
+        "comment": "",
+        "key": "간편 로그인하기",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 156
+        }
+      }
+    ]
+  },
+  "version": 1
+}

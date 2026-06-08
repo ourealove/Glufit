@@ -253,6 +253,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIAppFonts = (
+					"Pretendard-SemiBold.ttf",
+					"Pretendard-Medium.ttf",
+					"Pretendard-Bold.ttf",
+					"Montserrat-ExtraBold.ttf",
+				);
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +290,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIAppFonts = (
+					"Pretendard-SemiBold.ttf",
+					"Pretendard-Medium.ttf",
+					"Pretendard-Bold.ttf",
+					"Montserrat-ExtraBold.ttf",
+				);
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
